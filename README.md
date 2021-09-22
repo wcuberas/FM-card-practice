@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component
 
-![Deploy] (https://fm-card-practice.netlify.app/ "Deploy")
+👉[Deploy] (https://fm-card-practice.netlify.app/ "Deploy")
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
